@@ -103,7 +103,6 @@ nyc_water =
   content("text") %>% 
   jsonlite::fromJSON() %>% 
   as_tibble()
-  
 ```
 
 
